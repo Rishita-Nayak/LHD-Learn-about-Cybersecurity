@@ -10,3 +10,7 @@ Cybersecurity is the practice of protecting critical systems and sensitive infor
 ## Blogs from where we learnt about Cybersecurity 
 ## <br /> [What is Cybersecurity ?](https://www.ibm.com/topics/cybersecurity)
 <br />![bd-web-security](https://user-images.githubusercontent.com/86939391/137580034-a82d902f-92e2-4cb4-b601-73bf45beef9e.gif)
+
+## <br /> [Types of Cyber Attack ?](https://builtin.com/cybersecurity)
+<br />![cybersecurity](https://user-images.githubusercontent.com/86939391/137580312-76e91cf6-a529-4673-8b86-d559d67fdd7f.jpg)
+
