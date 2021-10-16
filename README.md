@@ -15,6 +15,9 @@ Cybersecurity is the practice of protecting critical systems and sensitive infor
 ## [More about types of Cyber Attack ?](https://www.geeksforgeeks.org/types-of-cyber-attacks/)
 <br />![cybersecurity](https://user-images.githubusercontent.com/86939391/137580312-76e91cf6-a529-4673-8b86-d559d67fdd7f.jpg)
 
+## [ Skills required for Cyber Security ?](https://www.itcareerfinder.com/brain-food/blog/entry/required-skills-for-cyber-security-professionals.html#:~:text=Required%20Skills%20for%20Cyber%20Security%20Professionals%201%20Foundational,code%20that%20adhere%20to%20best%20practices%20for%20security.)
+<br />![cybersecurity-skills-list](https://user-images.githubusercontent.com/86939391/137581093-65cc81b1-12d3-4f15-9d9a-289d27e11882.jpg)
+
 ## Courses from which we can learn about Cybersecurity 
 [Coursera](https://www.coursera.org/courses?query=cybersecurity)
 <br />[edX](https://www.edx.org/learn/cybersecurity)
